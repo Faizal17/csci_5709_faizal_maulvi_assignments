@@ -24,6 +24,7 @@ I've also hosted this assignment into my personal github repo which helped in ho
 - [React](https://react.dev/learn/start-a-new-react-project) - The web framework used
 - [Bootstrap](https://getbootstrap.com/) - For responsive UI
 - [Bootstrap Icons](https://icons.getbootstrap.com/) - Used to get bootstrap icons
+- [Canvasjs Charts](https://canvasjs.com/react-charts/) - Used to create data visualizations using chart and graphs
 
 ## Sources Used
 
@@ -286,4 +287,5 @@ module.exports = App;
 - https://react.dev/learn
 - https://getbootstrap.com/
 - https://icons.getbootstrap.com/
+- https://canvasjs.com/react-charts/
 - https://answers.netlify.com/t/how-to-fix-build-failures-with-create-react-app-in-production/17752
