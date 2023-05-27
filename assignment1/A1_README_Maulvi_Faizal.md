@@ -140,6 +140,10 @@ The code above was created by adapting the code in [Bootstrap docs](https://getb
 - [Bootstrap docs](https://getbootstrap.com/docs/5.3/components/navbar/#how-it-works)'s Code was used because it gave a responsive template to start with as navbar
 - [Bootstrap docs](https://getbootstrap.com/docs/5.3/components/navbar/#how-it-works)'s Code was modified by me to setup the navbar according to my project needs by changing the content and styling
 
+## Sources Used
+
+- https://canvasjs.com/react-charts/chart-index-data-label/
+
 ### File Name - assignment1/src/components/analytics/analyticsEventDataDetails/analyticsEventLeftGraph/AnalyticsEventLeftGraph.jsx
 
 _Lines 62 - 125_
